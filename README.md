@@ -4,14 +4,14 @@ Challenge 1 - Refactoring
 ## Author: 
 
 ## Deployment:
-[Live]()
+[Live](https://mark-227-g.github.io/challenge1/)
 
 ### User Story:
 
 
 
 #### Screenshot
-![Screenshot1]()
+![Screenshot1](https://github.com/mark-227-g/challenge1/blob/main/assets/images/Horiseon-Optimiztion-Managment-Marketing.png)
 
 
 #### Technology used:
