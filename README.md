@@ -14,6 +14,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 #### Acceptance Criteria
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -25,8 +26,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
-
+```
 
 #### Screenshot
 ![Screenshot1](https://github.com/mark-227-g/challenge1/blob/main/assets/images/Horiseon-Optimiztion-Managment-Marketing.png)
@@ -37,9 +37,9 @@ HTML5 semantic tags and CSS3. Deployed using github pages.
 
 
 #### References:
-[W3schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-[devicedocs](https://devdocs.io/css/)
+* [W3schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [devicedocs](https://devdocs.io/css/)
+* [javapoint](https://www.javatpoint.com/css-tutorial)
 
-[javapoint](https://www.javatpoint.com/css-tutorial)
 
